@@ -12,3 +12,7 @@ An item api for [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
 ## Precautions
 
 Just for minecraft 1.13.2 - 1.16.1,welcome PRs
+
+## NOTICE
+
+It will not update again.
